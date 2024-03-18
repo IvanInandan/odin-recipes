@@ -1,0 +1,18 @@
+
+body {
+    background-color:#F4D795;
+    font-family: copperplate;
+    text-align:center;
+}
+
+#title {
+    font-size: 100px;
+    color: #181313;
+    text-shadow: #E65D45 4px 4px 10px;
+}
+
+.recipes {
+    color: #F2BA82;
+    background-color: #BE5248;
+    font-size: 18px;
+}
