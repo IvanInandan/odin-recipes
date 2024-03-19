@@ -1,0 +1,27 @@
+body {
+    font-family: "FreeMono", monospace;
+    background-color: #C5A88F;
+}
+
+#intro {
+    text-align: center;
+    font-size: 60px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.header {
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.subheader {
+    font-style: italic;
+    font-size: 20px;
+}
