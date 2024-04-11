@@ -22,15 +22,7 @@ body {
 }
 
 .recipes {
-    margin: 8px;
-}
-
-button {
     color: #F2BA82;
     background-color: #BE5248;
-    padding: 10px;
-    margin: 0px 8px;
-    border-radius: 10px;
-    border-width: 3px;
-    border-color: black;
+    font-size: 18px;
 }
